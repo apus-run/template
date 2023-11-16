@@ -1,0 +1,5 @@
+{
+    "**/*.go": "// Copyright 2023 apus-run",
+    "**/*.{yml,toml}": "# Copyright 2023 apus-run",
+    "**/*.sh": "# Copyright 2023 apus-run"
+  }
